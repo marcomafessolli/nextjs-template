@@ -6,9 +6,8 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>101 OS</title>
+        <title>Template</title>
       </Head>
-
       <Background />
     </>
   )
