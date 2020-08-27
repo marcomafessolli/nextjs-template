@@ -1,6 +1,6 @@
 import Head from 'next/head'
 
-import Background from '../components/background'
+import Container from '../components/container'
 
 export default function Home() {
   return (
@@ -8,7 +8,7 @@ export default function Home() {
       <Head>
         <title>Template</title>
       </Head>
-      <Background />
+      <Container />
     </>
   )
 }
